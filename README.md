@@ -14,7 +14,7 @@ The dataset includes the following fields:
 - `Make`
 - `Model` 
 - `Electric Vehicle Type`
-- `Clean Alternative Fuel Vehicle (CAFV) Eligibility`
+- `Clean Alternative Fuel Vehicle (CAFV) Eligibility` 
 - `Electric Range` 
 - `Base MSRP` 
 
