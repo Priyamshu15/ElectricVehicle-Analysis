@@ -8,7 +8,7 @@ This repository contains a data analysis project focused on Electric Vehicle (EV
 
 The dataset includes the following fields:
 
-- `County`
+- `County` 
 - `City`
 - `Model Year`
 - `Make`
