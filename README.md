@@ -15,7 +15,7 @@ The dataset includes the following fields:
 - `Model` 
 - `Electric Vehicle Type`
 - `Clean Alternative Fuel Vehicle (CAFV) Eligibility`
-- `Electric Range`
+- `Electric Range` 
 - `Base MSRP` 
 
 The goal is to extract meaningful insights related to EV adoption, vehicle types, performance ranges, pricing trends, and eligibility for clean fuel programs.
