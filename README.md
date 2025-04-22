@@ -12,7 +12,7 @@ The dataset includes the following fields:
 - `City`
 - `Model Year`
 - `Make` 
-- `Model`
+- `Model` 
 - `Electric Vehicle Type`
 - `Clean Alternative Fuel Vehicle (CAFV) Eligibility`
 - `Electric Range`
